@@ -1,0 +1,5 @@
+[2026-08-17T07:41:22.320Z] [WARN] [AUTH] Request with no token {"path":"/api/modules"}
+[2026-08-17T07:41:22.362Z] [WARN] [AUTH] Request with no token {"path":"/api/settings"}
+[2026-08-17T07:41:22.384Z] [WARN] [AUTH] Request with no token {"path":"/api/notifications/unread-count"}
+[2026-08-17T07:41:31.222Z] [INFO] [AUTH] Login attempt {"username":"genzeadmin"}
+[2026-08-17T07:41:31.363Z] [INFO] [AUTH] Login successful {"userId":1,"username":"genzeadmin","role":"SuperAdmin"}

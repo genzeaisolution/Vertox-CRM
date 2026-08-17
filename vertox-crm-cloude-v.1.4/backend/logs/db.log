@@ -1,0 +1,3 @@
+[2026-08-17T07:41:12.699Z] [INFO] [DB] Building MSSQL config {"server":"localhost","database":"VertoxCRM","port":1433,"user":"(set)"}
+[2026-08-17T07:41:12.700Z] [INFO] [DB] Attempting MSSQL connection... {"server":"localhost","database":"VertoxCRM","port":1433}
+[2026-08-17T07:41:12.948Z] [INFO] [DB] MSSQL connection established successfully {"database":"VertoxCRM"}

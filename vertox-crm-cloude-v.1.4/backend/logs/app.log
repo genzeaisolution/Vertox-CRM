@@ -1,0 +1,10 @@
+[2026-08-17T07:41:11.150Z] [INFO] [BOOT] Starting Vertox CRM backend... {"node":"v20.11.0","env":"development","cwd":"D:\\full final\\Vertox CRM V1.0\\vertox-crm-v1.4\\vertox-crm-v1.4\\backend"}
+[2026-08-17T07:41:11.154Z] [INFO] [CORS] CORS configured: ALL origins allowed (*)
+[2026-08-17T07:41:11.156Z] [INFO] [BOOT] Serving frontend statically from D:\full final\Vertox CRM V1.0\vertox-crm-v1.4\vertox-crm-v1.4\frontend
+[2026-08-17T07:41:12.361Z] [INFO] [HTTPS] No certificate found — generating a self-signed one {"ips":["192.168.8.1","192.168.106.1","10.2.1.103"],"extraDomains":["genzecrm.local"]}
+[2026-08-17T07:41:12.643Z] [INFO] [HTTPS] Self-signed certificate generated and saved to backend/certs/ {"validFor":["192.168.8.1","192.168.106.1","10.2.1.103","localhost","genzecrm.local"]}
+[2026-08-17T07:41:12.728Z] [INFO] [BOOT] Vertox CRM (HTTPS) running on port 3443
+[2026-08-17T07:41:12.732Z] [INFO] [BOOT] HTTP->HTTPS redirect listening on port 3300
+[2026-08-17T07:41:12.949Z] [INFO] [BOOT] Startup DB check: OK
+[2026-08-17T07:41:13.161Z] [INFO] [REMINDER_SCHEDULER] Sweep complete: 0 reminder(s) generated, 0 schedule(s) checked {"generated":0,"checked":0}
+[2026-08-17T07:41:13.162Z] [INFO] [REMINDER_SCHEDULER] Initial sweep on boot done {"checked":0,"generated":0}
